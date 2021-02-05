@@ -1,2 +1,1 @@
-# terraformatlantis
-Code repository for testing terraform atlantis configuration
+Code repository for testing atlantis with terraform

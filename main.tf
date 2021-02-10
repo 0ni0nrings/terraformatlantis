@@ -8,6 +8,11 @@ resource "null_resource" "example2" {
   
 }
 
+
+resource "null_resource" "example3" {
+  
+}
+
 # resource "null_resource" "this" {
 #     provisioner "local-exec" {
 #         command = ""
@@ -16,3 +21,4 @@ resource "null_resource" "example2" {
     
 #     depends_on = ["aws_vpc.this"]
 # }
+
